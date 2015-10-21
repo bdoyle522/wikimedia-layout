@@ -1,1 +1,80 @@
+body {
+	height: 100%;
+	width: 100%;
+}
 
+#row {
+	height: 100px;
+	width: 70%;
+}
+
+#picture {
+	height: 135px;
+	width: 155px;
+	float: left;
+}
+
+
+div.picture-1 {
+	content: url(https://www.wikimedia.org/static/images/project-logos/enwiki-2x.png);
+}
+
+div.picture-2 {
+	content: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/270px-Wiktionary-logo-en.svg.png);
+}
+
+div.picture-3 {
+	content: url(https://upload.wikimedia.org/wikipedia/meta/5/5b/Wikiquote-logo_project_2x.png);
+}
+
+div.picture-4 {
+	content: url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/270px-Wikibooks-logo-en-noslogan.svg.png);
+}
+
+div.picture-5 {
+	content: url(https://www.wikimedia.org/static/images/project-logos/wikisource.png);
+}
+
+div.picture-6 {
+	content: url(https://upload.wikimedia.org/wikinews/en/b/bc/Wiki.png);
+}
+
+div.picture-7 {
+	content: url(https://www.wikimedia.org/static/images/project-logos/enwikiversity.png);
+}
+
+div.picture-8 {
+	content: url(https://www.wikimedia.org/static/images/project-logos/specieswiki.png);
+}
+
+div.picture-9 {
+	content: url(https://www.wikimedia.org/static/images/project-logos/mediawikiwiki.png);
+}
+
+div.picture-10 {
+	content: url(https://www.wikimedia.org/static/images/project-logos/wikidatawiki.png);
+}
+
+div.picture-11 {
+	content: url(https://www.wikimedia.org/static/images/project-logos/commonswiki.png);
+}
+
+div.picture-12 {
+	content: url(https://www.wikimedia.org/static/images/project-logos/wikivoyage.png);
+}
+
+div.picture-13 {
+	content: url(https://www.wikimedia.org/static/images/project-logos/metawiki-2x.png);
+}
+
+div.picture-14 {
+	content: url(https://www.wikimedia.org/static/images/project-logos/incubatorwiki.png);
+}
+
+div.picture-15 {
+	content: url(https://wikitech.wikimedia.org/w/images/c/cf/Labslogo_thumb.png);
+}
+
+div.picture-16 {
+	content: url(https://www.wikimedia.org/static/images/project-logos/foundationwiki-2x.png);
+}
