@@ -1,17 +1,47 @@
 body {
 	height: 100%;
 	width: 100%;
+	overflow-x: hidden;
+	margin-left: 150px;
+	margin-right: 250px;
 }
 
+p {
+	font: sans-serif;
+	font-size: 22px;
+	line-height: 1.5;
+}
+
+.top-writing {
+	margin-right: 250px;
+	padding-top: 2px;
+}
+
+
 #row {
-	height: 100px;
-	width: 70%;
+	height: 100%;
+	width: 100%;
+	padding-right: 40px;
+	padding-top: 40px;
+	float: left;
+	margin-right:200px;
+	overflow: none;
 }
 
 #picture {
+	position: static;
 	height: 135px;
 	width: 155px;
 	float: left;
+	padding-right: 30px;
+}
+
+.bottom-writing {
+	width: 75%;
+	height: 100%;
+	float: left;
+	margin: auto;
+	margin-right: 300px;
 }
 
 
